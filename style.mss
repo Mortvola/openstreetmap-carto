@@ -1,5 +1,5 @@
 Map {
-  background-color: rgba(0,0,0,0)
+  background-color: rgba(181,181,181,0)
 }
 
 @water-color: #aad3df;
