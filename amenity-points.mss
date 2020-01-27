@@ -215,7 +215,7 @@
     marker-fill: @memorials;
   }
 
-  [feature = 'tourism_camp_site'][zoom >= 16] {
+  [feature = 'tourism_camp_site'][zoom >= 14] {
     marker-file: url('symbols/tourism/camping.svg');
     marker-fill: @accommodation-icon;
     marker-clip: false;
